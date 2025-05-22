@@ -24,3 +24,21 @@ arrange_url.py 是将传统的iptv.m3u文件解析成python中的数组，方便
 myitv_main.py 是项目的主文件，使用 python myitv_main.py 即可运行此项目。  
 requirements.txt 是项目源码的依赖库文件。  
 
+
+## iptv.m3u文件内容格式
+```
+#EXTM3U\
+#EXTINF:-1,CCTV1
+http://192.168.2.1:4022/rtp/239.255.2.2:8000
+
+#EXTINF:-1,CCTV2
+http://192.168.2.1:4022/rtp/239.255.2.3:8006
+
+#EXTINF:-1,CCTV3
+http://192.168.2.1:4022/rtp/239.255.5.92:8364
+
+#EXTINF:-1,CCTV3
+http://192.168.2.1:4022/rtp/239.255.2.4:8012
+
+#EXTINF:-1,CCTV4
+http://192.168.2.1:4022/rtp/239.255.2.5:8018
