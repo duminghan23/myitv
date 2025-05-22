@@ -51,7 +51,7 @@ http://192.168.2.1:4022/rtp/239.255.2.5:8018
 ## 项目使用方法
 以windows为例：   
 1、打开vlc官网 https://www.videolan.org/vlc/download-windows.html ，下载压缩包版本的程序，并解压到一个目录。  
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/a54008b0-570a-4c17-9afe-830868b8033e)
 2、将本项目程序myitv_main.exe放置到vlc解压的目录中。  
 3、将自己的iptv.m3u文件也放置到vlc解压的目录中。
 ![image](https://github.com/user-attachments/assets/28e40465-8278-40d4-9d4c-f5ab0d239701)
