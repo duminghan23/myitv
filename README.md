@@ -2,7 +2,9 @@
 一款支持键盘操作、简单易用的 IPTV 播放器  
 本项目通过python_vlc控制vlc播放器进行播放，可以使用数字键盘区的+-/*进行频道加减、音量加减操作，数字进行节目的选择。较为完整地模仿了传统遥控器的使用方法。  
 
-<iframe src="//player.bilibili.com/player.html?bvid=BV1aJJHzmEgm&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="668" height="376"> </iframe>
+这个是本项目的演示视频
+
+https://www.bilibili.com/video/BV1aJJHzmEgm)
 
 ## 特色
 支持启动后，播放全屏。   
