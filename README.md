@@ -4,7 +4,7 @@
 
 这个是本项目的演示视频
 
-https://www.bilibili.com/video/BV1aJJHzmEgm)
+https://www.bilibili.com/video/BV1aJJHzmEgm
 
 ## 特色
 支持启动后，播放全屏。   
